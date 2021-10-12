@@ -371,27 +371,12 @@ input:focus , textarea:focus {
 
 @media screen and (max-width: 768px) {
 
-    a{
-        font-size: 18px;
-    }
-
-    .category{
-        width: calc(100% - 4px);
-    }
-
-    .category__name--title{
-        font-size: 18px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-
     main {
         margin: 0 4%;
     }
 
     a{
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .nav__container{
@@ -409,16 +394,16 @@ input:focus , textarea:focus {
     }
 
     .category__name--title{
-        font-size: 12px;
+        font-size: 16px;
     }
 
     h3 {
-        font-size: 16px;
+        font-size: 20px;
         padding: 0;
     }
 
     h4 {
-        font-size: 12px;
+        font-size: 16px;
         padding: 4px 0 24px 0;
     }
     
