@@ -384,7 +384,7 @@ input:focus , textarea:focus {
     }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 375px) {
 
     main {
         margin: 0 4%;
