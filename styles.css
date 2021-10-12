@@ -387,7 +387,7 @@ input:focus , textarea:focus {
 @media screen and (max-width: 380px) {
 
     main {
-        margin: 0 8%;
+        margin: 0 4%;
     }
 
     a{
@@ -395,13 +395,13 @@ input:focus , textarea:focus {
     }
 
     .nav__container{
-        height: 96px;
+        height: 80px;
         padding: 0 8%;
     }
 
     .logo__mask {
-        width: 96px;
-        height: 96px;
+        width: 80px;
+        height: 80px;
     }
     
     .category{
